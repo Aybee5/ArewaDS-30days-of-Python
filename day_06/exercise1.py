@@ -15,6 +15,8 @@ family_members = list(siblings)
 family_members.append("Abdullahi")
 family_members.append("Mother")
 
+family_members.extend(["Father", "Grandmother"])
+
 print(family_members)
 
 #exercise 2
