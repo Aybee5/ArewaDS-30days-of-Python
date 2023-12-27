@@ -9,3 +9,9 @@ print(mean([1, 2, 3, 4, 5]))
 from statistics import *
 
 print(median([1, 2, 3, 4, 5]))
+
+
+#lamda expression
+
+# lambda_fun = *args : expression
+
