@@ -15,3 +15,6 @@ print(median([1, 2, 3, 4, 5]))
 
 # lambda_fun =lambda *args : expression
 
+import re
+
+re.match(r'(\w+) (\w+)', 'Isaac Newton, physicist', re.I).groups()
